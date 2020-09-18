@@ -7,10 +7,10 @@ Always open to communication. Developed the ability to work in a team, high
 performance, self-organized. I'm learning fast. 
 
 I have experience in working with and communicate with people.
- 🌱 I’m currently learning React, Redux, Laravel, MongoDB..
- 🔭 I’m currently working on the World)
- 📫 How to reach me: andrii.y.vorona@gmail.com or Twitter: @Andrev___Vorona;
- 💬 Ask me about everything)
+ - 🌱 I’m currently learning React, Redux, Laravel, MongoDB..
+ - 🔭 I’m currently working in Angular2+, TP, JS.
+ - 📫 How to reach me: andrii.y.vorona@gmail.com or Twitter: @Andrev___Vorona;
+ - 💬 Ask me about everything)
 
 <!--
 Here are some ideas to get you started:
