@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 My name's Andrii. I am a Web Developer with more than 4+ years of an industry.
-I'm working with Angular2+,TS,RxJs,NgXs....
+I'm working with: Angular2+, TS, RxJs, NgXs....
 
 Always open to communication.
 I have some interesting repo, may you can find some interesting for you)
 
- - 🌱 I’m currently updating deep my Knowledge: NgXs, Angular2+, RxJs,TS.
+ - 🌱 I’m currently updating deep my Knowledge: NgXs, Angular2+, RxJs, TS.
  - 🔭 I’m currently working with: NgXs, Angular2+, RxJs, TP, JS.
  - 📫 How to reach me: andrii.y.vorona@gmail.com;
  - 💬 Ask me about everything)
